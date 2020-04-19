@@ -1,2 +1,1 @@
-# abhishek_first_repository
-This is my Django project repository
+This is my first tutorial on Github
